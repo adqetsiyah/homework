@@ -1,0 +1,30 @@
+div{
+  background-color: #333030;
+  color: aliceblue;
+  height: 118px;
+}
+span {color: blueviolet;}
+.block1{
+  background-color: #e60808;
+  width: 100px; ;
+  height: 100px;
+}
+.block2 {background-color: #916db3;
+  color: black;
+  height: 60px;
+  width: 300px;
+  
+}
+
+.block3{
+  background-color: #916db3;
+  height: 53px;
+  width: 300px;
+}
+
+.block4{
+  background-color: blueviolet;
+  color: #ffffff;
+
+  
+}
