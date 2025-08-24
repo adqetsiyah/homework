@@ -1,0 +1,14 @@
+header {
+  background-color: rgb(206, 148, 78); 
+  height:60px;}
+a {
+  color: black;}
+footer {
+  background-color: rgb(152, 82, 216); 
+  height: 300px;
+color: rgb(255, 255, 255);}
+footer a{
+  color: rgb(255, 255, 255);
+}
+.block1 {
+  background-color: antiquewhite;}
