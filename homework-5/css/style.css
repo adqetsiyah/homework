@@ -1,0 +1,48 @@
+.text1 {font-family: "Open Sans","Arial", sans-serif;
+font-size: 20px;
+font-weight:300;
+line-height: 30px;
+text-align: left;
+font-style: italic;}
+
+.text2 {font-family: "Open Sans","Arial", sans-serif;
+font-size: 20px;
+font-weight:400;
+line-height: 30px;
+text-align: left;
+text-decoration: line-through;}
+
+.text3 {font-family: "Open Sans","Arial", sans-serif;
+font-size: 20px;
+font-weight:400;
+line-height: 30px;
+text-align: center;
+text-transform: uppercase;}
+
+.text4 {font-family: "Open Sans","Arial", sans-serif;
+  color: rgb(71, 3, 134);
+font-size: 20px;
+font-weight:400;
+text-align: left;
+text-decoration: overline wavy;
+word-spacing: 30px;}
+
+.text5 {font-family: "Open Sans","Arial", sans-serif;
+font-size: 20px;
+font-weight:400;
+text-align: left;
+text-decoration: underline double;
+letter-spacing: 5px}
+
+.text6 {font-family: "Open Sans","Arial", sans-serif;
+font-size: 20px;
+font-weight:400;
+text-align: left;
+text-indent: 40px;
+text-decoration: underline solid crimson;}
+
+.text7 {font-family: "Open Sans","Arial", sans-serif;
+font-size: 20px;
+font-weight:400;
+text-align: center;
+text-shadow: 2px 2px 2px green;}
