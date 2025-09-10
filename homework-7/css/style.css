@@ -50,7 +50,7 @@ body {
 /* =================================================== */
 
 .hero {
-  background: url(/img/hero-bg.png) 10% 50%/ cover no-repeat;
+  background: url(https://adqetsiyah.github.io/homework/homework-7/img/hero-bg.png) 10% 50%/ cover no-repeat;
   padding: 120px 0px;
 }
 
@@ -227,4 +227,5 @@ body {
 
 .footer-item {
   margin-bottom: 10px;
+
 }
