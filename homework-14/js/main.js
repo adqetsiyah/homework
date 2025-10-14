@@ -46,12 +46,13 @@ const users = [
   }
 ];
 
-let simpleUserCountuserCount = 0;
+let simpleUserCount = 0;
 
 for (let i = 0; i < users.length; i++) {
   if (users[i].role !== 'admin') {
-    simpleUserCountuserCount++;
+    simpleUserCount++;
   }
 }
 
-console.log('Количество простых пользователей:', simpleUserCountuserCount);
+
+console.log('Количество простых пользователей:', simpleUserCount);
