@@ -58,7 +58,7 @@ body {
 
 /* =========================================================================== */
 .header {
-  background: url(./img/decor/bg-header.png) 50% 100% / cover no-repeat;
+  background: url(../img/decor/bg-header.png) 50% 100% / cover no-repeat;
 }
 
 .header__top {
@@ -335,4 +335,5 @@ body {
   }
 
 }
+
 
